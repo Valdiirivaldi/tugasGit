@@ -85,4 +85,4 @@ for lokasi, data in data_panen.items():
         print(data["nama_lokasi"], "dalam kondisi baik")
 
 print("Update commit kedua")
-print("pindah di branch Baru")
+print("edit di branch Baru")
