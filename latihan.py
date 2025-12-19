@@ -86,3 +86,5 @@ for lokasi, data in data_panen.items():
 
 print("Update commit kedua")
 print("pindah di branch Baru")
+print("rubah  di master Baru")
+
