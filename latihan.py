@@ -84,3 +84,4 @@ for lokasi, data in data_panen.items():
     else:
         print(data["nama_lokasi"], "dalam kondisi baik")
 
+print("Update commit kedua")
